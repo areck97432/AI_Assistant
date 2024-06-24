@@ -1,0 +1,9 @@
+groq
+Pillow
+openai
+faster-whisper
+SpeechRecognition
+google-generativeai
+pyperclip
+opencv-python
+pyaudio
